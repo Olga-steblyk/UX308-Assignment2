@@ -22,7 +22,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/contact/
         </loc>
     </url>
     <url>
@@ -33,6 +33,16 @@
     <url>
         <loc>
             http://localhost:8000/products/mystery-soup/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/panini-sandwich/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cuban-sandwich/
         </loc>
     </url>
     <url>
